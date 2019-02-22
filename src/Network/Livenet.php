@@ -7,6 +7,7 @@
  */
 
 namespace Vrajroham\LaravelBitpay\Network;
+use Bitpay\Network\NetworkInterface;
 
 class Livenet implements NetworkInterface
 {
