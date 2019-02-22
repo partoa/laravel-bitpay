@@ -29,7 +29,6 @@ class CreateKeypair extends Command
     private $token;
     private $bar;
     use CreateKeypairTrait;
-
     /**
      * The name and signature of the console command.
      *
